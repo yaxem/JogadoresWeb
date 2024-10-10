@@ -53,21 +53,21 @@
 
 #### DELETE
 
-```/pagamento/jogadores/{id} ```deletar um jogador por id
+```/pagamento/jogadores/{id}```deletar um jogador por id
 
-```/pagamento/jogadores/ ```deletar todos os jogadores
+```/pagamento/jogadores/```deletar todos os jogadores
 
 ### Pagamentos
 
 #### GET
 
-```/pagamento/pagamentos/ ```obter todos os pagamentos
+```/pagamento/pagamentos/```obter todos os pagamentos
 
-```pagamento/pagamentos/{id} ```obter um pagamento por id
+```pagamento/pagamentos/{id}```obter um pagamento por id
 
 #### POST
 
-```/pagamento/pagamentos/ ```cadastrar novo pagamento
+```/pagamento/pagamentos/```cadastrar novo pagamento
 
 #### PUT
 
