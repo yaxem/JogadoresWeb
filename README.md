@@ -48,3 +48,7 @@
 - PostgreSQL
 - Spring Boot 3 (Spring Web MVC, Spring Data JPA, Developer Tools, PostgreSQL Driver)
 - Maven 3.8 (ou superior)
+
+**Requisitos de software:**
+- Cada jogador possui um id, título, e-mail e data de nascimento. Segue exemplo de do corpo de uma requisição em json:
+- Cada pagamento possui um id, ano, mês e o id do jogador a quem pertence o pagamento. Segue exemplo:
