@@ -61,7 +61,7 @@
 
 ```/pagamento/pagamentos/``` obter todos os pagamentos
 
-```pagamento/pagamentos/{id}``` obter um pagamento por id
+```/pagamento/pagamentos/{id}``` obter um pagamento por id
 
 ```/pagamento/pagamentos/ano/{ano}``` obter pagamentos por ano
 
