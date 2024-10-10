@@ -39,46 +39,37 @@
 #### GET
 ```
 /pagamento/jogadores/ 
-```
-obter todos os jogadores, e seus respectivos pagamentos
+```obter todos os jogadores, e seus respectivos pagamentos
 
 ```
 /pagamento/jogadores/{id}
-```
-
-obter um jogador por id
+```obter um jogador por id
 
 ```
 /pagamento/pagamentos/ano/{ano} 
-```
-
-obter pagamentos por ano
+```obter pagamentos por ano
 
 #### POST
 
 ``` 
 /pagamento/jogadores/
-```
-cadastrar novo jogador
+```cadastrar novo jogador
 
 #### PUT
 
 ``` 
 /pagamento/jogadores/{id}
-```
-editar um jogador por id
+```editar um jogador por id
 
 #### DELETE
 
 ```
 /pagamento/jogadores/{id} 
-```
-deletar um jogador por id
+```deletar um jogador por id
 
 ```
 /pagamento/jogadores/ 
-```
-deletar todos os jogadores
+```deletar todos os jogadores
 
 ### Pagamentos
 
@@ -86,36 +77,30 @@ deletar todos os jogadores
 
 ```
 /pagamento/pagamentos/ 
-```
-obter todos os pagamentos
+```obter todos os pagamentos
 
 ```
 pagamento/pagamentos/{id} 
-```
-obter um pagamento por id
+```obter um pagamento por id
 
 #### POST
 
 ```
 /pagamento/pagamentos/ 
-```
-cadastrar novo pagamento
+```cadastrar novo pagamento
 
 #### PUT
 
 ```
 /pagamento/pagamentos/{id} 
-```
-editar um pagamento por id 
+```editar um pagamento por id 
 
 #### DELETE
 
 ```
 /pagamento/pagamentos/{id} 
-```
-deletar um pagamento por id
+```deletar um pagamento por id
 
 ```
 /pagamento/pagamentos/ 
-```
-deletar todos os pagamentos
+```deletar todos os pagamentos
