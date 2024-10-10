@@ -9,7 +9,10 @@
 obter todos os jogadores, e seus respectivos pagamentos
 
 ```
-/pagamento/jogadores/{id} ``` obter um jogador por id
+/pagamento/jogadores/{id}
+```
+
+obter um jogador por id
 
 ```
 /pagamento/pagamentos/ano/{ano} 
