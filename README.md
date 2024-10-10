@@ -3,7 +3,10 @@
 ## Jogadores
 
 ### GET
-``` /pagamento/jogadores/ ``` obter todos os jogadores, e seus respectivos pagamentos
+```
+/pagamento/jogadores/ 
+```
+obter todos os jogadores, e seus respectivos pagamentos
 
 ```/pagamento/jogadores/{id} ``` obter um jogador por id
 
