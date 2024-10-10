@@ -30,7 +30,8 @@ cadastrar novo jogador
 ### PUT
 
 ``` 
-/pagamento/jogadores/{id} ```
+/pagamento/jogadores/{id}
+```
 editar um jogador por id
 
 ### DELETE
