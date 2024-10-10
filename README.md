@@ -42,3 +42,9 @@
 - Gustavo Burgath  
 - Ricardo Santolaia  
 - Gabriel Fontes Bay
+
+**Requisitos técnicos:**
+- Java 21 (ou superior)
+- PostgreSQL
+- Spring Boot 3 (Spring Web MVC, Spring Data JPA, Developer Tools, PostgreSQL Driver)
+- Maven 3.8 (ou superior)
