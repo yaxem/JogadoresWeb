@@ -4,6 +4,7 @@
 
 ### GET
 GET     /pagamento/jogadores/      obter todos os jogadores, e seus respectivos pagamentos
+
 GET     /pagamento/jogadores/{id}  obter um jogador por id
 
 ### POST
