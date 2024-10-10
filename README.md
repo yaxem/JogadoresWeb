@@ -12,20 +12,26 @@ obter todos os jogadores, e seus respectivos pagamentos
 /pagamento/jogadores/{id} ``` obter um jogador por id
 
 ```
-/pagamento/pagamentos/ano/{ano} ``` obter pagamentos por ano
+/pagamento/pagamentos/ano/{ano} 
+```
+
+obter pagamentos por ano
 
 ### POST
+
 ``` 
 /pagamento/jogadores/
 ```
 cadastrar novo jogador
 
 ### PUT
+
 ``` 
 /pagamento/jogadores/{id} ```
 editar um jogador por id
 
 ### DELETE
+
 ```
 /pagamento/jogadores/{id} 
 ```
@@ -39,6 +45,7 @@ deletar todos os jogadores
 ## Pagamentos
 
 ### GET
+
 ```
 /pagamento/pagamentos/ 
 ```
@@ -50,18 +57,21 @@ pagamento/pagamentos/{id}
 obter um pagamento por id
 
 ### POST
+
 ```
 /pagamento/pagamentos/ 
 ```
 cadastrar novo pagamento
 
 ### PUT
+
 ```
 /pagamento/pagamentos/{id} 
 ```
 editar um pagamento por id 
 
 ### DELETE
+
 ```
 /pagamento/pagamentos/{id} 
 ```
