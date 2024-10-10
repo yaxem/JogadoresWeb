@@ -47,7 +47,7 @@
 
 #### PUT
 
-``` /pagamento/jogadores/{id}``` editar um jogador por id
+```/pagamento/jogadores/{id}``` editar um jogador por id
 
 #### DELETE
 
